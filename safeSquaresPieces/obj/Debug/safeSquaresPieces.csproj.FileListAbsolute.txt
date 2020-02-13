@@ -1,0 +1,6 @@
+c:\users\maria\documents\visual studio 2015\Projects\safeSquaresPieces\safeSquaresPieces\bin\Debug\safeSquaresPieces.exe.config
+c:\users\maria\documents\visual studio 2015\Projects\safeSquaresPieces\safeSquaresPieces\bin\Debug\safeSquaresPieces.exe
+c:\users\maria\documents\visual studio 2015\Projects\safeSquaresPieces\safeSquaresPieces\bin\Debug\safeSquaresPieces.pdb
+c:\users\maria\documents\visual studio 2015\Projects\safeSquaresPieces\safeSquaresPieces\obj\Debug\safeSquaresPieces.csprojResolveAssemblyReference.cache
+c:\users\maria\documents\visual studio 2015\Projects\safeSquaresPieces\safeSquaresPieces\obj\Debug\safeSquaresPieces.exe
+c:\users\maria\documents\visual studio 2015\Projects\safeSquaresPieces\safeSquaresPieces\obj\Debug\safeSquaresPieces.pdb
